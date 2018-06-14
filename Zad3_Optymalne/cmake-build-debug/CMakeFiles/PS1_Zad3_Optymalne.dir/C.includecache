@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps1/PS1_Zad3_Optymalne/main.c
+stdio.h
+-
+time.h
+-
+
